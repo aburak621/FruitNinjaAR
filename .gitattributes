@@ -1,6 +1,2 @@
 *.meta linguist-detectable=false
-<<<<<<< HEAD
 *.shader linguist-detectable=false
-=======
-*.shaderlab linguist-detectable=false
->>>>>>> f73e21b4f2be4a87fb65be3ba3639ad90c8b90ba
