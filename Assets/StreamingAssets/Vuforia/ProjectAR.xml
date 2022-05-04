@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ground" size="0.210000 0.296844" />
+    <ImageTarget name="100Lira" size="0.154000 0.071353" />
+    <ImageTarget name="002" size="0.054000 0.090119" />
+    <ImageTarget name="GenkiWorkbook" size="0.300000 0.426743" />
+  </Tracking>
+</QCARConfig>
