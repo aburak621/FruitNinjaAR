@@ -8,16 +8,16 @@ Gameplay: [YouTube](https://www.youtube.com/watch?v=jJ98C5rYZdU)
 
 ### Start
 
-![Homepage](img/start.png)
+![Start](img/start.png)
 
 ### Gameplay
 
-![Login Page](img/game1.png)
+![Gameplay](img/game1.png)
 
-![Menu](img/game2.png)
+![Gameplay](img/game2.png)
 
-![Order Page](img/end.png)
+![End](img/end.png)
 
 ### Pause Menu
 
-![Order Received](img/pause.png)
+![Pause](img/pause.png)
